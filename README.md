@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Ahmet Arif 👋
 
-<!--
-**Yugoexx/Yugoexx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior software developer focused on **backend development with Python**.
+I graduated from vocational high school (software development) and I'm building my skills through real projects.
 
-Here are some ideas to get you started:
+## What I'm working on
+- 🐍 Learning Python in depth (FastAPI, SQL, testing)
+- 🔧 Building a REST API with authentication as my first portfolio project
+- 🐧 Daily Linux user (Mint / Ubuntu)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech I use
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
+## Languages
+🇹🇷 Turkish (native) · 🇬🇧 English (learning) · 🇯🇵 Japanese (basic)
+
+## Contact
+📫 [35ahmetarif@gmail.com]
