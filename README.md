@@ -18,4 +18,4 @@ I graduated from vocational high school (software development) and I'm building 
 🇹🇷 Turkish (native) · 🇬🇧 English (learning) · 🇯🇵 Japanese (basic)
 
 ## Contact
-📫 [35ahmetarif@gmail.com]
+📫 35ahmetarif@gmail.com
