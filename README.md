@@ -3,9 +3,13 @@
 Junior software developer focused on **backend development with Python**.
 I graduated from vocational high school (software development) and I'm building my skills through real projects.
 
+## Projects
+- [**not-api**](https://github.com/Yugoexx/not-api): note-taking REST API with JWT authentication, built with FastAPI, SQLAlchemy and pytest
+- [**discord-bot**](https://github.com/Yugoexx/discord-bot): modular Discord moderation, logging and registration bot built with discord.py
+
 ## What I'm working on
-- 🐍 Learning Python in depth (FastAPI, SQL, testing)
-- 🔧 Building a REST API with authentication as my first portfolio project
+- 🐍 Learning Python in depth (testing, async, databases)
+- 🔍 Looking for my first junior developer role
 - 🐧 Daily Linux user (Mint / Ubuntu)
 
 ## Tech I use
